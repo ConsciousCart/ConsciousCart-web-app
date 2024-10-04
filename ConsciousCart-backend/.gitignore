@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+.venv*/
+venv*/
+env*/
+__pycache__/
+dist/
+.coverage*
+htmlcov/
+.tox/
+docs/_build/
+service-account.json
+firebase.json
+.env
