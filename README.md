@@ -32,6 +32,6 @@ tech_stack = {
     "Frontend": ["React", "Next.js"],
     "Backend": ["Python", "FastAPI"],
     "AI/ML": ["Google Gemini API"],
-    "Data": ["Firebase", GCP],
+    "Data": ["Firebase", "GCP"],
 }
 
