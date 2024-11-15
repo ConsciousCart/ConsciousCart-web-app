@@ -22,7 +22,7 @@ ConsciousCart transforms your grocery shopping experience by providing personali
   - Visual breakdown of purchasing habits
   - Nutritional content summaries
   - Trend analysis across shopping history
-  - 
+    
 ![WhatsApp Image 2024-10-02 at 9 12 25 PM](https://github.com/user-attachments/assets/736e29ff-c799-410d-bbed-505ae3c67be2)
 
 ## 💻 Tech Stack
